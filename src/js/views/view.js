@@ -1,5 +1,4 @@
 import icons from 'url:../../img/icons.svg';
-import { Fraction } from 'fracty';
 
 export default class View {
   _parentElement = document.querySelector('.recipe');
