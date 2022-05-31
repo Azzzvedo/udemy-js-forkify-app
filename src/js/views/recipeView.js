@@ -1,6 +1,6 @@
 import View from './view';
 import icons from 'url:../../img/icons.svg';
-import { fracty } from 'fracty';
+import fracty from 'fracty';
 
 class RecipView extends View {
   addHandlerRender(handler) {
