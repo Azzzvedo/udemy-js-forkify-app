@@ -1,6 +1,6 @@
 import View from './view';
 import icons from 'url:../../img/icons.svg';
-import { Fraction } from 'fractional';
+import { Fraction } from 'fracty';
 
 class RecipView extends View {
   addHandlerRender(handler) {
